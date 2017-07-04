@@ -1,0 +1,7 @@
+Dear Reader,
+
+this file is used to learn git rebase.
+
+
+Kind regards,
+Writer
