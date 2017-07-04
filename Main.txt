@@ -1,7 +1,7 @@
 Dear Reader,
 
-this file is used to learn git rebase.
-
+this file is used to learn git rebase. 
+This is a new line in this file.
 
 Kind regards,
 Writer
