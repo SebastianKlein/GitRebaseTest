@@ -1,6 +1,7 @@
 Dear Reader,
 
-this file is used to learn git rebase.
+It is with great pride that I announce something. For those who want to read this, go forward and read.
+This file is used to learn git rebase.
 
 
 Kind regards,
